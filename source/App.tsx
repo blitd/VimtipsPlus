@@ -105,7 +105,7 @@ export default function App() {
                 </div>
 
                 <div className="pt-8 pr-8 drop-shadow-sm w-70vw flex flex-row justify-end align-middle gap-2ch">
-                    {chrome?.runtime ? null :
+                    {typeof chrome !== "undefined" && chrome.runtime ? null :
                         <a href="https://chromewebstore.google.com/detail/vimtips-plus/oppimlkbmphmnabeldemahpgpajincbb">
                             <img 
                                 className="w-15ch"
