@@ -46,5 +46,6 @@ Learn vim with daily small tips that you can practice right in the browser.
 | Random tip          |           +              |
 | Next tip            |           ]              |
 | Previous tip        |           [              |
+| Toggle theme        |           t              |
 
 

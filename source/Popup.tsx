@@ -31,6 +31,7 @@ const shortcuts = [
     { text: "Random tip", shortcut: "+"},
     { text: "Next tip", shortcut: "]" },
     { text: "Previous tip", shortcut: "[" },
+    { text: "Toggle theme", shortcut: "t" },
 ];
 
 const ShortcutTable = () => (
