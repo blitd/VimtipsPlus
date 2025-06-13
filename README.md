@@ -9,7 +9,7 @@
 
 <div align="center">
 
-A chrome new tab extension / daily site with a built-in wasm implemention of vim. <br />
+A chrome new tab extension / daily site with a built-in wasm implementation of vim. <br />
 Learn vim with daily small tips that you can practice right in the browser.
 
 **Demo:** <a href="https://vimtipsplus.netlify.app/">https://vimtipsplus.netlify.app</a>
