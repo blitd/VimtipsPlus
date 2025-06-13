@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Learn vim with daily small tips that you can practice right in the browser. Features a built-in vim terminal implemented in wasm.",
   "scripts": {
-    "build": "echo 'this buggy action needs a build command present'",
+    "build": "npm run build-app",
     "build-tips": "tsx ./scripts/process-tips.mts",
     "build-sw": "vite build --config vite.sw.config.mts",
     "zip-dist": "tsx ./scripts/zip-dist.mts",
